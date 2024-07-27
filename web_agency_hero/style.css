@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://github.com/MrSandeepSharma/Web-Agency-Hero/blob/main/img/faded-office.png?raw=true);
+    background-size: cover;
+    font-family: "Open Sans", sans-serif;
+}
+
+.hero {
+    margin: 60px;
+    width: 270px;
+}
+
+.underline {
+    border-bottom: 3px solid rgb(113, 146, 186);
+}
+
+.title {
+    font-family: inherit;
+    font-weight: 800px;
+    font-size: 40px;
+}
+
+.text {
+    font-size: medium;
+}
+
+.btn {
+    background: rgb(113, 146, 186);
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+
+}
